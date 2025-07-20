@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tugas 7</string>
+
+    <string name="title_form_new">Buat Notes</string>
+    <string name="title_form_edit">Ubah Notes</string>
+    
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_title">Judul</string>
+    <string name="label_description">Deskripsi</string>
+    
+    <string name="button_login">MASUK</string>
+    <string name="button_register">DAFTAR</string>
+    <string name="button_logout">KELUAR</string>
+    <string name="button_new_note">CATATAN BARU</string>
+    <string name="button_edit_note">UBAH</string>
+    <string name="button_delete_note">DELETE</string>
+    <string name="button_cancel">BATAL</string>
+    <string name="button_save">SIMPAN</string>
+    
+    <string name="placeholder_note_title">PLACEHOLDER TITLE</string>
+</resources>
